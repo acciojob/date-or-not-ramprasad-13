@@ -1,6 +1,6 @@
 var isDate = function (input) {
   //   write your code here
-	return !isNan(Date.Parse(input))
+	return !isNan(Date.parse(input));
 };
 
 // Do not change the code below.
